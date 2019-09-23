@@ -60,3 +60,14 @@
 Para los cambios y desarrollos nuevos se realizo un prototipo de alta fidelidad en la herramienta de "invision".
 [Aqui](https://dahlia.invisionapp.com/public/share/ERWTRVGA4) se va a poder visualizar el flujo de las funciones recomendadas.
 
+## Carpeta de drive
+
+Para poder ver el proceso de research y diseño puedes ingresar a [esta carpeta](https://drive.google.com/drive/folders/101WzvSmeVsqzmFZGnYo23UDAnjxfpqua?usp=sharing) de drive y encontraras
+- Guia de entrevista a el product owner
+- Definición de los user persona
+- Videos de test de usuarios en estado actual de aplicación.
+- Afinnity map 
+- Customer journey map
+- Videos de test de usuarios con prototipo rediseñado.
+- Slides de presentaciones.
+
