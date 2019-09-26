@@ -58,7 +58,7 @@
 ## Prototipo de alta fidelidad
 
 Para los cambios y desarrollos nuevos se realizo un prototipo de alta fidelidad en la herramienta de "invision".
-[Aqui](https://dahlia.invisionapp.com/public/share/ERWTRVGA4) se va a poder visualizar el flujo de las funciones recomendadas.
+[Aquí](https://dahlia.invisionapp.com/public/share/ERWTRVGA4) se va a poder visualizar el flujo de las funciones recomendadas.
 
 ## Carpeta de drive
 
@@ -71,3 +71,6 @@ Para poder ver el proceso de research y diseño puedes ingresar a [esta carpeta]
 - Videos de test de usuarios con prototipo rediseñado.
 - Slides de presentaciones.
 
+## Loom
+
+Se usó esta herramienta para poder explicar todo el avance hasta obtener el resultado del rediseño propuesto [Aquí](https://www.loom.com/share/e61724464c0c4fe39065fd68eeecf35b)
